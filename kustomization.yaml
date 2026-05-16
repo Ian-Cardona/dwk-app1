@@ -6,4 +6,4 @@ resources:
 images:
 - name: PROJECT/IMAGE
   newName: iancardona/dwk1
-  newTag: 636efdeec6378eea55ea90d60ba61579b6c5b1a0
+  newTag: d36c93a314f44e55423ce9d4419ae72a7e535ad7
